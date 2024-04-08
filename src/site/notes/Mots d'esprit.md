@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-08T13:16:53.032+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-08T15:21:59.378+02:00"}
 ---
 
 La baignoire / La baie noire / L'abbé noir
@@ -27,8 +27,6 @@ La colère, ça tient chaud dans la galère
 Dans la vie, t'as 2 familles, celle que tu subis, et celle que t'as choisi.
 
 #Blagues Bonne vanne ► "J'te fais une passe décisive !"
-
-Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spission ! #Jeanjean 
 
 Ma sorcière bien brûlée
 
@@ -91,7 +89,17 @@ Comme on dit en vieil occitan, c'est à dire dans la langue de Maître Gims :
 
 K.A.R.L : Karl Angie Romu Laura
 
-### Phrases à la con
+### Formules de Magiciens
+
+Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spission ! #Jeanjean 2023
+C'est la rareté qui fait l'exception. #Pierrefond 2024.03
+Il est rentré dans ma tête avec un caillou ! #Poulette 2024.03
+160 BPM, c'est un peu mou...! #Trinstitude 2024.04
+J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
+Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
+Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
+
+### Dictons d'idiots / Bon sens de prolo
 
 Y'a pas de sot métier
 Ça coûte cher un château
