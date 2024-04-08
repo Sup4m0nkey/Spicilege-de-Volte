@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/air-ot-civ/","created":"2024-04-08T12:06:16.349+02:00","updated":"2024-04-08T12:23:40.092+02:00"}
 ---
+
 
 #### Chorus :  
 I thought I believed her  
