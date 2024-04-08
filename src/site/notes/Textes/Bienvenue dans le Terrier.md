@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/bienvenue-dans-le-terrier/","created":"2024-04-08T12:06:16.354+02:00","updated":"2024-04-08T13:44:33.647+02:00"}
 ---
+
 
 Si t'y penses, tu l'sais. Mais y penser, c'est dur, c'est flippant, c'est inconfort, pas vrai ?
 Et pourtant, y'a quelque chose de magnifique à...
