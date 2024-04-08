@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","tags":["gardenEntry"],"created":"2024-04-08T12:06:16.321+02:00","updated":"2024-04-08T10:50:11.108+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","created":"2024-04-08T12:06:16.321+02:00","updated":"2024-04-08T12:31:58.783+02:00"}
 ---
 
 ### Locutions Latines
