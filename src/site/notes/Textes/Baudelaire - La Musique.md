@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/baudelaire-la-musique/","created":"2024-04-08T12:06:16.351+02:00","updated":"2024-04-08T12:23:41.390+02:00"}
 ---
+
 
 La musique souvent me prend comme une mer !
 Vers ma pâle étoile,
