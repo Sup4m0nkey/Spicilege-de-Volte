@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/devant-mes-yeux/","created":"2024-04-08T12:06:16.363+02:00","updated":"2024-04-08T12:23:52.563+02:00"}
 ---
+
 La noirceur m'enveloppe. Les aspérités de la vieille chaise d'écolier sur laquelle je suis assis agressent mon postérieur ; et alors que je prends peu à peu conscience, je sens la morsure des cordes de chanvre sur mes poignets et mes chevilles.
 
 Mes yeux s'habituent peu à peu à l'obscurité. Tu te tiens là, dos à moi, trifouillant ce qui semble être une trousse de chirurgien.
