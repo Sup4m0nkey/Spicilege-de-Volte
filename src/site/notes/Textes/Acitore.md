@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/acitore/","created":"2024-04-08T12:06:16.348+02:00","updated":"2024-04-08T12:23:39.036+02:00"}
 ---
+
 Lorsque je vois ce soir ton corps nu frissonner  
 Le désir me parcourt de l’échine au bassin  
 Une main posée sur l’albâtre de ton sein  
