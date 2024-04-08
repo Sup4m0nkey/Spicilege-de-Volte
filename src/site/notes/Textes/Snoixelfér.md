@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/snoixelfer/","created":"2024-04-08T12:06:16.407+02:00","updated":"2024-04-08T12:24:19.432+02:00"}
 ---
+
 
 Plus jeune, je m'imaginais Pirate, naviguant sur des mers déchaînées, bravant le ciel et les vagues, défiant les éléments; je rêvais d'explorer les étoiles, de découvrir des planètes vierges, perdues au fin fond de l'espace; je souhaitais pénétrer dans les profondeurs de la Terre, découvrir des temples enfouis, mettre à jour des secrets oubliés, à l'encontre de civilisations cachées, vivant recluses aux confins d'immenses forêts vierges et adorant les Grands Anciens...
 
