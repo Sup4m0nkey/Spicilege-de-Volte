@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "5d5178893a0ced17",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1b73cb0d993f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3c3980095117ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mots d'esprit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4ac9ea642c2a9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "010b26689418d77c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81e4917164e94c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "618bdea77e678bc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02aee4055c0d556c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "653a1b49bbbe578a",
+    "type": "split",
+    "children": [
+      {
+        "id": "140173586b5bd992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c380275e80ae013e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mots d'esprit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06a862c671c031fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mots d'esprit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86a0abeaa395bc0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01171c46dbb3c6b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mots d'esprit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "e3c3980095117ec2",
+  "lastOpenFiles": [
+    "Oeuvres Majeures.md",
+    "101. Spicilège & Calembredaines.md",
+    "2024 - Jounal de Contre/2024.04 - Papa Feu est de Retour.md",
+    "Mots d'esprit.md"
+  ]
+}
