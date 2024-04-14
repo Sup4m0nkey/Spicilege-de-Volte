@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/metasophia/arts/","created":"2024-04-08T12:06:16.319+02:00","updated":"2024-04-08T16:44:23.747+02:00"}
 ---
+
 
 **Art :**
 Une Œuvre d'Art est le résultat volontaire et conscientisé comme tel d'un acte de création, impliquant une certaine Technê, une recherche Esthétique, et dont le but recherché est de provoquer une émotion ou de faire passer un message.
