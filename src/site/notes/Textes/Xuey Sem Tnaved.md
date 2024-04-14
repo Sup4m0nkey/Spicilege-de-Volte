@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/xuey-sem-tnaved/","created":"2024-04-08T12:06:16.417+02:00","updated":"2024-04-08T16:57:32.701+02:00"}
 ---
+
 
 La noirceur m'enveloppe. Les aspérités de la vieille chaise d'écolier, sur laquelle je suis assis, agressent mon postérieur ; et alors que je prends peu à peu conscience, je sens la morsure des cordes de chanvre sur mes poignets et mes chevilles.
 
