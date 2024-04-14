@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/she-took-me-for-a-fool/","created":"2024-04-08T12:06:16.405+02:00","updated":"2024-04-08T16:57:16.927+02:00"}
 ---
+
 Chorus :
 I thought I believed her
 We could be as one forever
