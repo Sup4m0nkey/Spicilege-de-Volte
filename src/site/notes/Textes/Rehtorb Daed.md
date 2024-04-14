@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/rehtorb-daed/","created":"2024-04-08T12:06:16.397+02:00","updated":"2024-04-08T16:57:05.184+02:00"}
 ---
+
 
 La salle est en effervescence. Tous sont là. Ils boivent, mangent les raisins de la joie, ils fêtent ensemble l'heureux événement. Les murs blancs, sans toit, où l'on a apposé des tentures ocres, violettes et bordeaux, laissent pleine vue sur le ciel métallique et lumineux. Tous sont là... sauf lui. Où est-il ? Il va tout rater...
 
