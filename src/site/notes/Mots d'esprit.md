@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-08T15:21:59.378+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-08T16:53:29.663+02:00"}
 ---
+
 La baignoire / La baie noire / L'abbé noir
 Like dog chasing my tail / my tale is a good story
 M'organiser / il me reste la Morgue à viser
 Céréales Killer = Assassin Bolique
 Gilles Hépar-Baal
 Véritablement songé = véritable mensonger
-Les Lémovices mentent / L’émo vit, semant / Il est laid, ce mot : vie
+Les Lémovices mentent / L’émo vit ce
 Je me suis jeté sur les rails (de poudre) = Zeph
 C'est dommage / S'aide au Mage / Cède hommages
 Trans Lucide / Trance vers sale
@@ -15,9 +16,8 @@ Guêpier / Gai Pied
 Ils méritent / Ils m'irritent / Ils héritent
 Aux Dieux Flemmards ! / Odieux flemmard / La Mare aux deux fées / Fait la maraude
 La Sainte Parole / Les seins d'Carole
-La montée des eaux / J'suis en montée, déso / Mon thé / Des os / Dom(p)ter mes Os
+La montée des eaux / J'suis en montée, déso / Mon thé / Des os /Dom(p)ter mes Os
 J'ai dépensé sans compter / J'ai des pensées sans comté
-Salahaddin / Mélusine
 
 Si tu veux être bien compris
 Il te faudra être précis
@@ -25,6 +25,8 @@ Il te faudra être précis
 La colère, ça tient chaud dans la galère
 
 Dans la vie, t'as 2 familles, celle que tu subis, et celle que t'as choisi.
+
+Conseil aux créateurs : Cook only something you would eat, but mostly, eat what you want to cook
 
 #Blagues Bonne vanne ► "J'te fais une passe décisive !"
 
@@ -98,7 +100,6 @@ Il est rentré dans ma tête avec un caillou ! #Poulette 2024.03
 J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
 Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
 Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
-Moi, j'suis pas bon en nuages. #JarlTouillefeu 2024.04
 
 ### Dictons d'idiots / Bon sens de prolo
 
