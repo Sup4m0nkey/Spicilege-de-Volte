@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/rengaw/","created":"2024-04-08T12:06:16.401+02:00","updated":"2024-04-08T16:57:10.901+02:00"}
 ---
+
 J'ouvre les yeux. Il y a un problème. Notre réveil est prématuré. Il ne devait pas en être ainsi.
 
 L'esprit encore brumeux, j'observe autour de moi. Des tuyaux pendent un peu partout, des étais en fer jonchent le sol. Notre vaisseau est en bien piteux état; des autres sarcophages cryogéniques, un seul est encore occupé : notre commandant de bord, le thorax percé de part en part, ne se réveillera plus. Du sang goutte à l'extrémité du morceau de métal planté dans son torse, formant peu à peu une marre rougeâtre à ses pieds. Le brouillard envahit de nouveau mes yeux; je reperds connaissance.
