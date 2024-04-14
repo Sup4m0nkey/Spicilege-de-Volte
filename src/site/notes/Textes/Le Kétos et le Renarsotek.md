@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/le-ketos-et-le-renarsotek/","created":"2024-04-08T12:06:16.387+02:00","updated":"2024-04-08T16:56:55.120+02:00"}
 ---
+
 Sieur Kétosaur, dans sa grotte caché, 
 Tenait dans sa main un pochtar’. 
 Maître Gratteur, avec son nez bouché, 
