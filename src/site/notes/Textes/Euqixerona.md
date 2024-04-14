@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/euqixerona/","created":"2024-04-08T12:06:16.375+02:00","updated":"2024-04-08T16:56:38.692+02:00"}
 ---
+
 Tout à commencé par une fin. C'est pas simple à expliquer, j'peux pas vous décrire exactement le pourquoi, ou le comment; c'est une suite d'évènements, des causes et des conséquences, mais j'vais essayer.
 
 Il était là, étendu sur l'sol, raide mort. Crise cardiaque j'suppose, ou l'épilepsie p't'être, chais pas trop. J'le voyais baigné dans sa bave, dans son vomis, il s'était même chié d'ssus. C'était clair'ment dégueulasse, un truc infâme, répugnant, ignoble. Mais j'trouvais ça quand même classe, le mec était crevé dans sa merde, et pourtant ça avait quelqu'chose de divin, chais pas.
