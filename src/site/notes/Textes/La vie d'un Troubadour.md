@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/la-vie-d-un-troubadour/","created":"2024-04-08T12:06:16.384+02:00","updated":"2024-04-08T16:56:52.986+02:00"}
 ---
+
 ### Chapitre 1 : Les liens du sang
 
 Je suis né un vendredi, du moins c’est ce qu’on m’a dit. La date exacte ? Je n’en ai aucune idée. Sûrement en l’an 1151 ou 1152, mais je n’en suis pas sûr.
