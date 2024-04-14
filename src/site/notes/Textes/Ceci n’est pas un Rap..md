@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/ceci-n-est-pas-un-rap/","created":"2024-04-08T12:06:16.359+02:00","updated":"2024-04-08T16:55:34.224+02:00"}
 ---
+
 
 Refrain (Vous le mettez où vous voulez)
 J'ai ouvert mes entrailles, j'en ai sorti des mots,
