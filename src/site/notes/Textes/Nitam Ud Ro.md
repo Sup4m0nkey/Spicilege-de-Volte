@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/nitam-ud-ro/","created":"2024-04-08T12:06:16.393+02:00","updated":"2024-04-08T16:56:59.696+02:00"}
 ---
+
 Parfois je t’imagine assise auprès de moi  
 Mes yeux plongeant au fond des tiens, où je me noie.  
 Quelques fois je repense à ta douceur, à toi, 
