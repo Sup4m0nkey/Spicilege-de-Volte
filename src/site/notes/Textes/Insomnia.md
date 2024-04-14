@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/insomnia/","created":"2024-04-08T12:06:16.379+02:00","updated":"2024-04-08T16:56:42.801+02:00"}
 ---
+
 Une fois de plus, le sommeil me fuit. Chaque fois que je ferme les yeux, son visage me hante, parfois souriant, comme autrefois, parfois en larmes, parfois, même, les yeux pleins de haine et d'une fureur incontrôlable... un futur horrible, improbable, et pourtant bouleversant.
 
 Je me retourne dans mon lit, comme toujours. La chaleur insoutenable des draps, alliée à ces visions de cauchemar, m'empêche de trouver le repos. Les draps en satin glissent de mon dos, révélant ma peau nue, pâle sous la lumière du lampadaire. Les stores laissent parfois passer la lueur mouvante des phares d'un véhicule traversant à toute vitesse la nuit, quelque malfrat en fuite, je suppose. Le couvre feu nous impose de rester chez nous après 17.00.
