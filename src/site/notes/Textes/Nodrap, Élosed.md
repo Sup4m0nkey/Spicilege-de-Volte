@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/nodrap-elosed/","created":"2024-04-08T12:06:16.395+02:00","updated":"2024-04-08T16:57:02.035+02:00"}
 ---
+
 Tu avais exprimé tes désirs et tes peurs ;
 Je n'ai pas écouté, et j'ai fait ton malheur.
 Malgré tout mon amour, je ne peux racheter
