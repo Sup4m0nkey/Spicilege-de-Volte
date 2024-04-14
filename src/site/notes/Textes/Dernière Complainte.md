@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/derniere-complainte/","created":"2024-04-08T12:06:16.360+02:00","updated":"2024-04-08T16:55:36.605+02:00"}
 ---
+
 
 *Bruit de porte qui claque.
 Une clef tourne dans une serrure
