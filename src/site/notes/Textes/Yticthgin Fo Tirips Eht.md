@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/yticthgin-fo-tirips-eht/","created":"2024-04-08T12:06:16.419+02:00","updated":"2024-04-08T16:57:45.401+02:00"}
 ---
+
 La ville, sombre et brumeuse, était comme une tombe entourée de ses cendres. La pluie battait les vitres crasseuses, et l'on voyait disparaître un instant les traces de doigts sales qui s'y étaient dessinées.
 
 Là, sous les gouttes battantes qui s'écrasaient au sol, on pouvait apercevoir le goudron noir et poussiéreux, frappé par tant de pieds, aplati par tant de roues, limé par tant de chenilles, que le temps ne semblait plus avoir d'effet sur lui. Pourtant, il y avait des décennies qu'il n'avait pas été rafistolé.
