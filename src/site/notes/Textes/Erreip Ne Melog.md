@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/erreip-ne-melog/","created":"2024-04-08T12:06:16.367+02:00","updated":"2024-04-08T16:56:27.926+02:00"}
 ---
+
 Comme un sifflement, que je ressens au plus profond de mon torse. Comme une main glaciale et aimante qui se resserre sur mon cœur, l'envie pressante, urgente, de courir vers ce son. Et je cours. De plus en plus vite. Toujours. Plus. Vite.
 
 Et mon esprit s'évade pendant ma course, régulièrement rappelé par la douce douleur qui sourde dans ma poitrine. Je ne suis pas arrivé.  
