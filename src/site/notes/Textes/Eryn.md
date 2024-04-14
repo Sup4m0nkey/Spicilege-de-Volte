@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/eryn/","created":"2024-04-08T12:06:16.369+02:00","updated":"2024-04-08T16:56:30.209+02:00"}
 ---
+
 Eryn.
 Elle s'appelait Eryn.
 Elle s'appelait Eryn.
