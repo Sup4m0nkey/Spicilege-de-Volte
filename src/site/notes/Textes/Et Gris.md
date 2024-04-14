@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/et-gris/","created":"2024-04-08T12:06:16.371+02:00","updated":"2024-04-08T16:56:32.646+02:00"}
 ---
+
 Allongé sur le lit, les yeux sur le plafond,
 En plein dans l'insomnie, devenu vieux, ronchon,
 Et on s'aigrit, on devient fou, amer et con.
