@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/rencontre/","created":"2024-04-08T12:06:16.399+02:00","updated":"2024-04-08T16:57:07.259+02:00"}
 ---
+
 C'est au crépuscule, autour du lac blanc,
 Que j'aime me promener tel l'enfant
 A la découverte de la rose fanée.
