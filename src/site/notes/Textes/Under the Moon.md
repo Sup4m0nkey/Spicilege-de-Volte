@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/textes/under-the-moon/","created":"2024-04-08T12:06:16.415+02:00","updated":"2024-04-08T16:57:30.093+02:00"}
 ---
+
 In the forest I am running
 The wind is breathing in my ears
 Howling my joy I'm everything
