@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-04-08T16:52:53.203+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-04-18T02:44:39.597+02:00"}
 ---
 
 #Arts #Penser #Projets #EnCours 
@@ -22,6 +22,7 @@
 - Inception
 - Dune (Villeneuve)
 Moon
+Mr Right
 Fight Club
 Mysterious Skin
 Big Fish
@@ -49,6 +50,7 @@ Only Lovers Left Alive
 Time Out
 - Stardust
 Danny the Dog
+- Aka
 Vol au dessus d'un nid de coucou
 Whiplash
 - Sucker Punch
