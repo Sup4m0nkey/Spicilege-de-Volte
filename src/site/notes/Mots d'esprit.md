@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-08T16:53:29.663+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-18T03:27:40.542+02:00"}
 ---
 
 La baignoire / La baie noire / L'abbé noir
@@ -100,6 +100,7 @@ Il est rentré dans ma tête avec un caillou ! #Poulette 2024.03
 J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
 Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
 Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
+L'esclavage, c'est créatif ! #Brozer 2024.04
 
 ### Dictons d'idiots / Bon sens de prolo
 
