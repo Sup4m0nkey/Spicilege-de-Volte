@@ -14,16 +14,13 @@
 ##### Mention Honorables
 - Donnie Darko
 - Midsommar
-- Jacob's Ladder
 
-#### Films Sacrés
+#### Films Préférés
 #Film
 - RRR
 - The Crow
 - Inception
 - Dune (Villeneuve)
-Blade Runner & Blade Runner 2049
-Mad Max - Fury Road
 Moon
 Mr Right
 Fight Club
@@ -38,6 +35,8 @@ Dorian Gray
 - Mr Nobody
 Cloud Atlas
 - Donnie Darko
+Blade Runner (2049)
+Mad Max - Fury Road
 Bienvenue à Gattaca
 Zombieland
 L'Histoire sans fin
@@ -47,7 +46,6 @@ L'Histoire sans fin
 Les Fils de l'Homme
 Annihilation
 Dogma
-Last Action Hero
 Only Lovers Left Alive
 Time Out
 - Stardust
@@ -59,16 +57,7 @@ Whiplash
 Coraline
 Matrix
 - Eternal Sunshine of the Spotless Mind
-A Beautiful Mind (Un Homme d'Exception)
-The Road
-Les Tontons Flingueurs
-La Folie des Grandeurs
-Les Enfants du Marais
-Vipère au Poing
-The Sunset Limited
-A Fish Called Wanda
-Hook
-~~Le Seigneur des Anneaux (Trilogie) & Le Hobbit (Dyptique)~~
+Cut
 
 #### Séries
 #Série
@@ -83,8 +72,8 @@ Maniac
 Sense8
 How I met your mother
 Cowboy Bebop
-Fullmetal Alchemist: Conqueror of Shamballa
-Dirk Gently
+Fullmetal Alchemists Shambala
+Dirk Gently 
 
 #### Musiques Françaises
 
@@ -109,8 +98,6 @@ Michel Fugain - Une belle histoire
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
 - La Planète Sauvage #Maëlstrom #Théocodore 
-- Ciao Pantin
-- 
 
 ##### Séries
 
