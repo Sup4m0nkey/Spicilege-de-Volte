@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-04-18T02:44:39.597+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-04-30T13:42:27.831+02:00"}
 ---
 
 #Arts #Penser #Projets #EnCours 
@@ -58,6 +58,7 @@ Coraline
 Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
+A Scanner Darkly
 
 #### Séries
 #Série
