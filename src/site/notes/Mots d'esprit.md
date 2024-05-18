@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-04-18T03:27:40.542+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-05-18T19:23:24.196+02:00"}
 ---
 
 La baignoire / La baie noire / L'abbé noir
@@ -14,7 +14,7 @@ C'est dommage / S'aide au Mage / Cède hommages
 Trans Lucide / Trance vers sale
 Guêpier / Gai Pied
 Ils méritent / Ils m'irritent / Ils héritent
-Aux Dieux Flemmards ! / Odieux flemmard / La Mare aux deux fées / Fait la maraude
+Aux deux, fait marre / Ô Dieux Flemmards ! / Odieux flemmard / La Mare aux deux fées / Fait la maraude
 La Sainte Parole / Les seins d'Carole
 La montée des eaux / J'suis en montée, déso / Mon thé / Des os /Dom(p)ter mes Os
 J'ai dépensé sans compter / J'ai des pensées sans comté
