@@ -15,6 +15,7 @@
 - Donnie Darko
 - Midsommar
 - Jacob's Ladder
+- La Planète Sauvage
 
 #### Films Préférés
 #Film
@@ -99,7 +100,6 @@ Michel Fugain - Une belle histoire
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
-- La Planète Sauvage #Maëlstrom #Théocodore 
 
 ##### Séries
 
