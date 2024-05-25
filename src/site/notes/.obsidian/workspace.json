@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
-                "mode": "source",
+                "file": "Mots d'esprit.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
+                "file": "Mots d'esprit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
+                "file": "Mots d'esprit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md"
+                "file": "Mots d'esprit.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "59a4cee8fe48d75c",
+  "active": "26016b534ad3b217",
   "lastOpenFiles": [
+    "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
     "Textes/Contes et Cauchemars/Fragments/Yticthgin Fo Tirips Eht.md",
     "Textes/Contes et Cauchemars/Xuey Sem Tnaved.md",
     "Textes/Chants et Versets/Anglais/Under the Moon.md",
@@ -174,7 +175,6 @@
     "Textes/Contes et Cauchemars/Fragments",
     "Textes/Contes et Cauchemars/La Plage.md",
     "Textes/Chants et Versets/Gnidne Etanretla.md",
-    "Textes/Contes et Cauchemars/Euq Ecrap..md",
     "Textes/Prosopopées",
     "Textes/Chants et Versets/Anglais",
     "Textes/Contes et Cauchemars",

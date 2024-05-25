@@ -101,6 +101,7 @@ J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
 Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
 Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
 L'esclavage, c'est créatif ! #Brozer 2024.04
+Moi, j'suis pas bon en nuages... #JarlTouillefeu 2024.04
 
 ### Dictons d'idiots / Bon sens de prolo
 
