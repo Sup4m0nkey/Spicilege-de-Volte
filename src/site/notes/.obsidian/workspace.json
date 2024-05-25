@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasophia/Citations & Maximes.md",
+                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasophia/Citations & Maximes.md",
+                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasophia/Citations & Maximes.md",
+                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasophia/Citations & Maximes.md"
+                "file": "Textes/Prosopopées/Camembert Alu - Les Mites de Zizi-Feu.md"
               }
             }
           }
@@ -146,11 +146,38 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "26016b534ad3b217",
+  "active": "59a4cee8fe48d75c",
   "lastOpenFiles": [
-    "Textes/She took me for a fool.md",
-    "Textes/Seulensemble.md",
-    "Textes/Salle d'attente sans détente.md",
-    "Textes/Camembert Alu - Les Mites de Zizi-Feu.md"
+    "Textes/Contes et Cauchemars/Fragments/Yticthgin Fo Tirips Eht.md",
+    "Textes/Contes et Cauchemars/Xuey Sem Tnaved.md",
+    "Textes/Chants et Versets/Anglais/Under the Moon.md",
+    "Textes/Contes et Cauchemars/Fragments/Trois pages par jour..md",
+    "Textes/Chants et Versets/Transcendance.md",
+    "Textes/Contes et Cauchemars/Thgin Lufrednow.md",
+    "Textes/Contes et Cauchemars/Fragments/Snoixelfér.md",
+    "Textes/Chants et Versets/Anglais/She took me for a fool.md",
+    "Textes/Contes et Cauchemars/Fragments/Seulensemble.md",
+    "Textes/Chants et Versets/Salle d'attente sans détente.md",
+    "Textes/Chants et Versets/Rupture d'années vraies.md",
+    "Textes/Contes et Cauchemars/Rengaw.md",
+    "Textes/Chants et Versets/Rencontre.md",
+    "Textes/Contes et Cauchemars/Rehtorb Daed.md",
+    "Textes/Chants et Versets/Nodrap, Élosed.md",
+    "Textes/Chants et Versets/Nitam Ud Ro.md",
+    "Textes/Contes et Cauchemars/Fragments/Lettre ouverte d’un monstre à une déesse..md",
+    "Textes/Chants et Versets/Le Kétos et le Renarsotek.md",
+    "Textes/Contes et Cauchemars/Eryn.md",
+    "Textes/Contes et Cauchemars/Egnos El Te Aél.md",
+    "Textes/Contes et Cauchemars/Fragments/Erreip Ne Melog.md",
+    "Textes/Contes et Cauchemars/Euqixerona.md",
+    "Textes/Contes et Cauchemars/Fragments/La vie d'un Troubadour.md",
+    "Textes/Contes et Cauchemars/Fragments",
+    "Textes/Contes et Cauchemars/La Plage.md",
+    "Textes/Chants et Versets/Gnidne Etanretla.md",
+    "Textes/Contes et Cauchemars/Euq Ecrap..md",
+    "Textes/Prosopopées",
+    "Textes/Chants et Versets/Anglais",
+    "Textes/Contes et Cauchemars",
+    "Textes/Chants et Versets"
   ]
 }
