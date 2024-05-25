@@ -74,6 +74,7 @@ The OA
 Maniac
 Sense8
 How I met your mother
+Sherlock
 Cowboy Bebop
 Fullmetal Alchemists Shambala
 Dirk Gently 
