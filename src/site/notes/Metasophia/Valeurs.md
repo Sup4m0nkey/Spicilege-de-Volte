@@ -26,7 +26,7 @@
 - Sincérité (誠, makoto / honnêteté) { #MakotoSan}
 - Honneur (名誉, meiyō)
 - Loyauté (忠義, chūgi)
-- 
+
 ###### Confucianisme
 
 - Humanisme
