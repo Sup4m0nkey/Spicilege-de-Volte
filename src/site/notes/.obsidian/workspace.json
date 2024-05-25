@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "baddb46d70a159ec",
+        "id": "a3e5ae197e15e053",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ef6f070ef5793a",
+            "id": "26016b534ad3b217",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Metasophia/Citations & Maximes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Metasophia/Citations & Maximes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Metasophia/Citations & Maximes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Metasophia/Citations & Maximes.md"
+              }
             }
           }
         ]
@@ -138,6 +146,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b4ef6f070ef5793a",
-  "lastOpenFiles": []
+  "active": "26016b534ad3b217",
+  "lastOpenFiles": [
+    "Textes/She took me for a fool.md",
+    "Textes/Seulensemble.md",
+    "Textes/Salle d'attente sans détente.md",
+    "Textes/Camembert Alu - Les Mites de Zizi-Feu.md"
+  ]
 }
