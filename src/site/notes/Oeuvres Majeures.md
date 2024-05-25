@@ -67,7 +67,7 @@ A Scanner Darkly
 - Dispatches from Elsewhere
 Battlestar Galactica
 Firefly & The Expanse
-The Good Place
+- The Good Place
 The Haunting of Hill House
 Utopia
 The OA
