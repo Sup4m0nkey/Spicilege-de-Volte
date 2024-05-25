@@ -3,6 +3,7 @@
 ---
 
  #Valeurs
+ 
 ### Qualités :
 
 - Bien
@@ -15,17 +16,19 @@
 ### Charismes
 
 - Autonomie
+
 ###### Bushido
+
 - Droiture (義, gi / rectitude / rigueur) [Bushido](https://fr.wikipedia.org/wiki/Bushido#Un_code_tr%C3%A8s_strict_?)
 - Courage (勇, yū)
 - Bienveillance (仁, jin / grandeur d'âme / compassion / générosité)
 - Politesse (礼, rei / étiquette / respect)
-- Sincérité (誠, makoto / honnêteté)
-{ #MakotoSan}
-
+- Sincérité (誠, makoto / honnêteté) { #MakotoSan}
 - Honneur (名誉, meiyō)
 - Loyauté (忠義, chūgi)
+- 
 ###### Confucianisme
+
 - Humanisme
 - Équité
 - Urbanité
