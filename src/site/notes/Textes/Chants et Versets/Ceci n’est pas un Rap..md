@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/ceci-n-est-pas-un-rap/","created":"2024-04-08T12:06:16.359+02:00","updated":"2024-04-18T18:26:24.769+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/ceci-n-est-pas-un-rap/","created":"2024-05-25T20:56:29.739+02:00","updated":"2024-05-25T08:29:27.699+02:00"}
 ---
+
 
 [Support musical](https://www.youtube.com/watch?v=iRT-WE9hQh8)
 
