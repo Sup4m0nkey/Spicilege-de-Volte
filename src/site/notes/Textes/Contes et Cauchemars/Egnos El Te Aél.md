@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/egnos-el-te-ael/","created":"2024-04-08T12:06:16.365+02:00","updated":"2024-04-08T16:56:25.195+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/egnos-el-te-ael/","created":"2024-05-25T20:56:29.764+02:00","updated":"2024-05-25T08:29:32.618+02:00"}
 ---
+
 
 La guerre fait rage. Sous le feu ennemi, je me tiens recroquevillé, l'arme à la main, alors que des éclats de métal et de plâtre tombent tout autour de moi.  
 Un de mes camarades est touché au torse. Il s'écroule sur les pavés froids, et commence à suffoquer. Je dépose mon sac au sol, résolu à le sauver. C'est moi le médecin de l'escouade. Je sors d'une poche un grand couteau, et je déchire sa veste. La plaie béante bouillonne de sang, et dans un dernier sursaut, un soupir, et il s'éteint.  
