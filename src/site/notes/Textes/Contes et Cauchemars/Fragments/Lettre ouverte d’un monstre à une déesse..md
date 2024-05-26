@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/lettre-ouverte-d-un-monstre-a-une-deesse/","created":"2024-04-08T12:06:16.389+02:00","updated":"2024-04-08T16:56:57.633+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/lettre-ouverte-d-un-monstre-a-une-deesse/","created":"2024-05-25T20:56:29.783+02:00","updated":"2024-05-25T08:29:49.170+02:00"}
 ---
+
 
 
 #### Ou,
