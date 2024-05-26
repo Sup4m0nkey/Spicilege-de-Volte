@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/gnidne-etanretla/","created":"2024-04-08T12:06:16.377+02:00","updated":"2024-04-08T16:56:40.535+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/gnidne-etanretla/","created":"2024-05-25T20:56:29.743+02:00","updated":"2024-05-25T08:29:47.890+02:00"}
 ---
+
 
 80.2 - Article 80
 Depuis bien trop longtemps les mensonges le suivent,

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/rupture-d-annees-vraies/","created":"2024-04-18T18:47:09.601+02:00","updated":"2024-04-18T19:07:32.190+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/rupture-d-annees-vraies/","created":"2024-05-25T20:56:29.750+02:00","updated":"2024-05-25T08:30:37.466+02:00"}
 ---
+
 
 Est-ce de l'eau, est-ce du sang ?
 Le liquide s'écoule au creux du dos ;

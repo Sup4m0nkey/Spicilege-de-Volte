@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/yticthgin-fo-tirips-eht/","created":"2024-04-08T12:06:16.419+02:00","updated":"2024-04-08T16:57:45.401+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/yticthgin-fo-tirips-eht/","created":"2024-05-25T20:56:29.789+02:00","updated":"2024-05-25T08:31:27.710+02:00"}
 ---
+
 
 La ville, sombre et brumeuse, était comme une tombe entourée de ses cendres. La pluie battait les vitres crasseuses, et l'on voyait disparaître un instant les traces de doigts sales qui s'y étaient dessinées.
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/transcendance/","created":"2024-04-08T12:06:16.411+02:00","updated":"2024-04-08T13:17:40.168+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/transcendance/","created":"2024-05-25T20:56:29.753+02:00","updated":"2024-05-25T08:31:23.129+02:00"}
 ---
+
 
 Pour la dernière fois il ferma ses paupières
 La vie quittait son corps, le sang fuyait ses veines,

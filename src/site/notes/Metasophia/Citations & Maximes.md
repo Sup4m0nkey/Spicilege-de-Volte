@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","created":"2024-04-08T12:06:16.321+02:00","updated":"2024-04-08T12:31:58.783+02:00"}
+{"dg-publish":true,"permalink":"/metasophia/citations-and-maximes/","created":"2024-05-25T05:32:12.725+02:00","updated":"2024-05-25T08:16:51.412+02:00"}
 ---
+
 
 ### Locutions Latines
 #Philosophie 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/erreip-ne-melog/","created":"2024-04-08T12:06:16.367+02:00","updated":"2024-04-08T16:56:27.926+02:00"}
+{"dg-publish":true,"permalink":"/textes/contes-et-cauchemars/fragments/erreip-ne-melog/","created":"2024-05-25T20:56:29.780+02:00","updated":"2024-05-25T08:29:33.275+02:00"}
 ---
+
 
 Comme un sifflement, que je ressens au plus profond de mon torse. Comme une main glaciale et aimante qui se resserre sur mon cœur, l'envie pressante, urgente, de courir vers ce son. Et je cours. De plus en plus vite. Toujours. Plus. Vite.
 
