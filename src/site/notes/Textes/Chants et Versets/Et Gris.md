@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/textes/et-gris/","created":"2024-04-08T12:06:16.371+02:00","updated":"2024-04-08T16:56:32.646+02:00"}
+{"dg-publish":true,"permalink":"/textes/chants-et-versets/et-gris/","created":"2024-05-25T20:56:29.741+02:00","updated":"2024-05-25T08:29:34.821+02:00"}
 ---
+
 
 Allongé sur le lit, les yeux sur le plafond,
 En plein dans l'insomnie, devenu vieux, ronchon,
