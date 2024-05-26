@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-04-08T12:06:16.598+02:00","updated":"2024-05-18T19:23:24.196+02:00"}
+{"dg-publish":true,"permalink":"/mots-d-esprit/","created":"2024-05-25T05:32:12.728+02:00","updated":"2024-05-26T05:17:15.605+02:00"}
 ---
+
 
 La baignoire / La baie noire / L'abbé noir
 Like dog chasing my tail / my tale is a good story
@@ -19,6 +20,9 @@ La Sainte Parole / Les seins d'Carole
 La montée des eaux / J'suis en montée, déso / Mon thé / Des os /Dom(p)ter mes Os
 J'ai dépensé sans compter / J'ai des pensées sans comté
 
+RAGEUX DEDANS
+MIGRE, HAINEUX
+
 Si tu veux être bien compris
 Il te faudra être précis
 
@@ -29,6 +33,8 @@ Dans la vie, t'as 2 familles, celle que tu subis, et celle que t'as choisi.
 Conseil aux créateurs : Cook only something you would eat, but mostly, eat what you want to cook
 
 #Blagues Bonne vanne ► "J'te fais une passe décisive !"
+
+Droguédex = Addictionnaire
 
 Ma sorcière bien brûlée
 
@@ -97,11 +103,17 @@ Ce chanceux d'Heptible, qui se fait sucer par tout le monde, avec son pote Spiss
 C'est la rareté qui fait l'exception. #Pierrefond 2024.03
 Il est rentré dans ma tête avec un caillou ! #Poulette 2024.03
 160 BPM, c'est un peu mou...! #Trinstitude 2024.04
-J'ai l'impression d'avoir un humain dans l'oeil... #Poulette 2024.04
+J'ai l'impression d'avoir un humain dans l'oeil... #CykaPoulette 2024.04
 Ah, c'est ça le Syndrome de l'Encéphalogramme Plat ! #Ritonite 2024.04
 Être interpellé pour tes actes, c'est un cadeau. #Théocodore 2024.04
 L'esclavage, c'est créatif ! #Brozer 2024.04
 Moi, j'suis pas bon en nuages... #JarlTouillefeu 2024.04
+Je suis patiente, mais je m'endors, des fois. #Kae 2024.04
+Une fois que t'es **dans** la folie, ça va. #Ritonite 2024.04
+C'est pas la Chips la plus croustillante du paquet ! Younes de #Kae 2024.04
+Par contre, le rideau... il est traitre hein ! #Alez 2024.04
+Chuis pas une salope... mais faut rester ouvert. #Brozer 2024.05
+Mettez ce visage larmoyant et la direction en pelleteuse. #ValPalmaProfdeChant 2024.05
 
 ### Dictons d'idiots / Bon sens de prolo
 
