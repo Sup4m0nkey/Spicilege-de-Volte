@@ -128,6 +128,14 @@
                 "file": "Textes/Prosopopées/Le Sang dans le Creuset.md"
               }
             }
+          },
+          {
+            "id": "6e14dbc3a1638528",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ]
       }
@@ -143,7 +151,8 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "59a4cee8fe48d75c",
