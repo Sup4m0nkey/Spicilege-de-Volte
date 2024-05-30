@@ -16,13 +16,12 @@
 
 - Autonomie
 ###### Bushido
+
 - Droiture (義, gi / rectitude / rigueur) [Bushido](https://fr.wikipedia.org/wiki/Bushido#Un_code_tr%C3%A8s_strict_?)
 - Courage (勇, yū)
 - Bienveillance (仁, jin / grandeur d'âme / compassion / générosité)
 - Politesse (礼, rei / étiquette / respect)
-- Sincérité (誠, makoto / honnêteté)
-{ #MakotoSan}
-
+- Sincérité (誠, makoto / honnêteté) { #MakotoSan}
 - Honneur (名誉, meiyō)
 - Loyauté (忠義, chūgi)
 ###### Confucianisme
@@ -36,31 +35,31 @@ Les charismes se ressentent, et cette manifestation ressentie est ce qu'on appel
 
 #### Féminin Divin
 
-l’intuition
-l’inspiration
-l’imagination
-la compassion
-la sensibilité
-l’écoute
-l’empathie
-la douceur
-l’intelligence émotionnelle
-la sensualité
-l’harmonie
-la créativité
-la capacité à soigner, à prendre soin des autres
+- l’intuition
+- l’inspiration
+- l’imagination
+- la compassion
+- la sensibilité
+- l’écoute
+- l’empathie
+- la douceur
+- l’intelligence émotionnelle
+- la sensualité
+- l’harmonie
+- la créativité
+- la capacité à soigner, à prendre soin des autres
 
 #### Masculin Sacré
 
-la responsabilité
-la force
-l’action
-le pouvoir
-la paternité
-la générosité
-l’intellect
-la clarté
-l’autorité
-l’abondance
-la recherche d’évolution, de mouvement
-la protection
+- la responsabilité
+- la force
+- l’action
+- le pouvoir
+- la paternité
+- la générosité
+- l’intellect
+- la clarté
+- l’autorité
+- l’abondance
+- la recherche d’évolution, de mouvement
+- la protection
