@@ -1,3 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/textes/prosopopees/Amour arraché par Tortures Hivernales/"}
+---
 Tu sais, parfois, j'voudrai tout oublier.
 Nettoyer ma cervelle de nos souvenirs
 Et garder que les pires
