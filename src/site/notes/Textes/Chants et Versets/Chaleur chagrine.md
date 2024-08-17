@@ -1,3 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/textes/prosopopees/Chaleur-Chagrine/"}
+---
+
 Le Renart tise
 Il a l'âme triste
 Son art s'est terni
