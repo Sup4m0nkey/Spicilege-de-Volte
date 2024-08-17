@@ -1,3 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/textes/prosopopees/LeChienDlaClasse/"}
+---
+
 J'm'intitule :
 Romuald-Esteban
 Boucanier Lémovice
