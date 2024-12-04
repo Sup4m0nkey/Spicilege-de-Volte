@@ -60,6 +60,9 @@ Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
 A Scanner Darkly
+Burn after Reading
+Legend
+Operation Shakespeare
 
 #### Séries
 #Série
