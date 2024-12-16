@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-04-08T12:06:16.603+02:00","updated":"2024-04-18T02:44:39.597+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-12-05T22:43:41.789+01:00","updated":"2024-12-16T14:21:44.046+01:00"}
 ---
+
 
 #Arts #Penser #Projets #EnCours 
 #### Pentalogie Psychonaute
@@ -14,6 +15,8 @@
 ##### Mention Honorables
 - Donnie Darko
 - Midsommar
+- Jacob's Ladder
+- La Planète Sauvage
 
 #### Films Préférés
 #Film
@@ -58,19 +61,24 @@ Coraline
 Matrix
 - Eternal Sunshine of the Spotless Mind
 Cut
+A Scanner Darkly
+Hook
+~~Le Seigneur des Anneaux (Trilogie) & Le Hobbit (Dyptique)~~  
+Cut
 
 #### Séries
 #Série
 - Dispatches from Elsewhere
 Battlestar Galactica
 Firefly & The Expanse
-The Good Place
+- The Good Place
 The Haunting of Hill House
 Utopia
 The OA
 Maniac
 Sense8
 How I met your mother
+Sherlock
 Cowboy Bebop
 Fullmetal Alchemists Shambala
 Dirk Gently 
@@ -91,17 +99,22 @@ Michel Fugain - Une belle histoire
 
 - Docteur Arthus #Théocodore
 - Flying Lotus #Maëlstrom
+- Axel Bower - Éteins la Lumière
+- Poet of the Fall - Sleep
+- Ibaraki (Metal)
+- Landmurks (Metal)
+- Weekend palace (metal)
 
 ##### Films
 
 - #Janjan Jean Philippe Smidt (Luccini, Uchronie)
 - #Janjan Yesterday (Uchronie)
 - A Ghost Story
-- La Planète Sauvage #Maëlstrom #Théocodore 
+- Moon Garden (onirique)
 
 ##### Séries
 
-- 
+- Miracle Workers (Buscemi, Radcliffe)
 
 ##### Livres
 
