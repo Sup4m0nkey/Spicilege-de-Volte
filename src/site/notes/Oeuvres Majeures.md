@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-12-05T22:43:41.789+01:00","updated":"2024-05-26T05:21:50.678+02:00"}
+{"dg-publish":true,"permalink":"/oeuvres-majeures/","created":"2024-12-05T22:43:41.789+01:00","updated":"2024-12-16T14:21:44.046+01:00"}
 ---
 
 
@@ -63,6 +63,8 @@ Matrix
 Cut
 A Scanner Darkly
 Hook
+~~Le Seigneur des Anneaux (Trilogie) & Le Hobbit (Dyptique)~~  
+Cut
 
 #### Séries
 #Série
